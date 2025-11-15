@@ -9,10 +9,11 @@ Bot de Telegram con Groq:
 
 Haz clic aquí:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/Siverlian69/siverai-railway-bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/Siverlian69/siverai-telegram-bot)
 
-💡 Reemplaza `YOUR_USERNAME` por tu usuario de GitHub antes de hacer deploy.
+
 
 ## 🔧 Variables
 En Railway → Variables:
+
 
