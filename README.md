@@ -1,15 +1,18 @@
-# 💗 SiverAI Telegram Bot (Groq + Telegram) — 24/7 en Railway
+# 💗 SiverAI Telegram Bot — Railway 24/7
 
-Bot de Telegram 24/7 que convierte notas de voz en texto y responde con un estilo femenino cariñoso usando Groq (LLaMA 3 70B).
+Bot de Telegram con Groq:
+- Voz → Texto (Whisper)
+- Respuestas femeninas (LLaMA 3)
+- Corre 24/7 en Railway GRATIS
 
 ## 🚀 Deploy en 1 clic
 
-Presiona aquí:
+Haz clic aquí:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/uLE0oD?referralCode=siverai)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?templateUrl=https://github.com/Siverlian69/siverai-railway-bot)
 
-## 🔧 Variables necesarias
+💡 Reemplaza `YOUR_USERNAME` por tu usuario de GitHub antes de hacer deploy.
 
+## 🔧 Variables
 En Railway → Variables:
-
 
